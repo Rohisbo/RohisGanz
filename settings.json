@@ -1,0 +1,52 @@
+{
+     "prefix": "!",
+     "namalu" : "RIZKI",
+     "nomerlu": "6283817161861",
+     "namabot": "IKY BOT",
+     "nomerbot": "6283838745774",
+     "gender" : "FEMALE",
+     "copyright" : "ikybot",
+     "Shopee" : "-",
+     "Gopay" : "6283817161861",
+     "Dana" : "6283817161861",
+     "Ovo" : "6283817161861",
+     "namaDocument": "ikybot",
+     "joinGcExtream": true,
+     "Anticall": true,
+     "multi": true,
+     "onepref" : false,
+     "publik": true,
+     "forwarding": false,
+     "antitroli" : false,
+     "autovn" : false,
+     "autosticker" : false,
+     "autorespon" : false,
+     "autotyping" : false,
+     "autoread" : true,
+     "katalogMenu": false,
+     "troliMenu": false,
+     "lokasiMenu": true,
+     "documentMenu": false,
+     "autoblockcmd" : true,
+     "autoWelcome": false,
+     "welcomeType1": false,
+     "welcomeType2": false,
+     "welcomeType3": true,
+     "chatBot" : false,
+     "teksChat" : "Gada menu",
+     "totalForward" : 1000000,
+     "explain": false,
+     "gamewaktu": 60,
+	 "limitCount": 30,
+	 "gcount": {
+		"prem": 30,
+		"user": 20
+},
+    
+     "zeks": "officialdittaz", 
+     "zenzkey": "officialdittaz",
+     "xteam": "170342e43e147afa"
+}
+
+   
+   
